@@ -1,1 +1,3 @@
-git filter-branch -f --env-filter "GIT_AUTHOR_NAME='Yifan Jiang'; GIT_AUTHOR_EMAIL='yifanjiang51851@gmail.com'; GIT_COMMITTER_NAME='Yifan Jiang'; GIT_COMMITTER_EMAIL='yifanjiang51851@gmail.com';" HEAD
+Welcome to my Github,
+
+In it, I have include my progress, learning to become a full-stack web developer. The main projects from those months of labor is DrawIt and can be viewed [live](http://drawit.herokuapp.com/) and a work in progress physics engine, Space Story
